@@ -1,4 +1,9 @@
-### Hi there 👋
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hima_zin331/posts.svg)](http://qiita.com/hima_zin331)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hima_zin331/contributions.svg)](http://qiita.com/hima_zin331)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
 
 <!--
 **himazin331/himazin331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
