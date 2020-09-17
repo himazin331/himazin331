@@ -4,7 +4,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
 
 # himazin331's github stats
-[(https://github-readme-stats.vercel.app/api?username=himazin331&show_icons=true&theme=onedark)](https://github.com/himazin331/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=himazin331&show_icons=true&theme=onedark)](https://github.com/himazin331/github-readme-stats)
 
 <!--
 **himazin331/himazin331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
