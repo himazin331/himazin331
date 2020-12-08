@@ -5,7 +5,6 @@
 
 # himazin331's GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=himazin331&show_icons=true&theme=onedark)](https://github.com/himazin331/github-readme-stats)
-
 <!--
 **himazin331/himazin331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
