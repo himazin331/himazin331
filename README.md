@@ -1,5 +1,3 @@
-# [!]Python PEP8に準拠したコードに修正中
-
 # himazin331's Qiita Stats
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hima_zin331/posts.svg)](http://qiita.com/hima_zin331)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hima_zin331/contributions.svg)](http://qiita.com/hima_zin331)
