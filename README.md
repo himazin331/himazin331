@@ -4,7 +4,12 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
 
 # himazin331's GitHub Stats
-[![](https://github-readme-stats-5ka8nhkck-nakayumc0278.vercel.app/api?username=himazin331&show_icons=true&theme=onedark)](https://github.com/himazin331/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himazin331&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himazin331" />
+</a>
 
 <h1 align="center">Hi 👋, I'm himazin331</h1>
 <h3 align="center">A student studying machine learning. The content is poor...</h3>
