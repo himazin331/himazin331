@@ -1,18 +1,3 @@
-# himazin331's Qiita Stats
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/hima_zin331/posts.svg)](http://qiita.com/hima_zin331)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hima_zin331/contributions.svg)](http://qiita.com/hima_zin331)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
-
-# himazin331's GitHub Stats
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himazin331&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himazin331" />
-</a>
-</div>
-
 <h1 align="center">Hi 👋, I'm himazin331</h1>
 <h3 align="center">A student studying machine learning. The content is poor...</h3>
 
@@ -44,9 +29,20 @@
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">himazin331's GitHub Stats:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=himazin331&count_private=true&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himazin331" />
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h3 align="left">himazin331's Qiita Stats:</h3>
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hima_zin331/posts.svg)](http://qiita.com/hima_zin331)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hima_zin331/contributions.svg)](http://qiita.com/hima_zin331)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himazin_shotaml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himazin_shotaml" height="30" width="40" /></a>
-<a href="https://fb.com/himazin331" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="himazin331" height="30" width="40" /></a>
+  <a href="https://twitter.com/himazin_shotaml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himazin_shotaml" height="30" width="40" /></a>
+  <a href="https://fb.com/himazin331" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="himazin331" height="30" width="40" /></a>
 </p>
