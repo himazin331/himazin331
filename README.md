@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm himazin331</h1>
-<h3 align="center">A student studying machine learning. The content is poor...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himazin331&label=Profile%20views&color=0e75b6&style=flat" alt="himazin331" /> </p>
 
