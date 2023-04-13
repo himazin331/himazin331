@@ -28,10 +28,14 @@
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 </p>
 
+---
+
 <h3 align="left">himazin331's GitHub Stats:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=himazin331&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himazin331" />
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+---
 
 <h3 align="left">himazin331's Qiita Stats:</h3>
 
@@ -39,6 +43,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hima_zin331/contributions.svg)](http://qiita.com/hima_zin331)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/hima_zin331/followers.svg)](http://qiita.com/hima_zin331)
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
