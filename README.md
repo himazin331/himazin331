@@ -10,17 +10,12 @@
 <a href="https://www.facebook.com/himazin331" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
 I'm a Japanese engineer who dreams of becoming a full stack engineer. At work, I'm an ML/DL engineer and am involved in development work around ML/DL.
 
 Recently, I'm working on research and development of LLM. In my private life, I'm studying not only ML/DL but also a wide range of fields from networking to web development!  
-  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -51,8 +46,6 @@ Recently, I'm working on research and development of LLM. In my private life, I'
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 </div>  
 
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -67,14 +60,8 @@ Recently, I'm working on research and development of LLM. In my private life, I'
 
 <br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=himazin331&&style=flat-square)  
-  
-
-<br/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
