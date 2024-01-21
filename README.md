@@ -17,6 +17,7 @@ I'm a Japanese engineer who dreams of becoming a full stack engineer. At work, I
 
 Recently, I'm working on research and development of LLM. In my private life, I'm studying not only ML/DL but also a wide range of fields from networking to web development!  
 
+**I also write a technical blog! Here →** https://himazin331.com/blog
 
 ## Languages and Tools  
 <div align="center">  
